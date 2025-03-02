@@ -1,10 +1,10 @@
-<a href="https://github.com/iikrllx/binout">
+<a href="https://github.com/krekhovx/binout">
     <img src="https://img.shields.io/badge/it's%20nothing%20serious%20here-blue?style=for-the-badge">
 </a>
-<a href="https://github.com/iikrllx/binout">
+<a href="https://github.com/krekhovx/binout">
     <img src="https://img.shields.io/badge/simple-green?style=for-the-badge">
 </a>
-<a href="https://github.com/iikrllx/binout/blob/master/src/binout.c">
+<a href="https://github.com/krekhovx/binout/blob/master/src/binout.c">
     <img src="https://img.shields.io/badge/binout-red?style=for-the-badge">
 </a>
 
@@ -30,7 +30,7 @@ Let's go back to ```binout``` =)
 
 Project cloning, preparation and testing:
 ```
-$ git clone https://github.com/iikrllx/binout.git
+$ git clone https://github.com/krekhovx/binout.git
 $ cd binout; make; cd src
 $ ./binout --help
 ```
